@@ -1,6 +1,6 @@
 # dotfiles
 
-@(我的第一个笔记本)[Debain, Ubuntu, Linux Mint]
+[Debain, Ubuntu, Linux Mint]
 
 #### 安装VIM, TMUX, GIT, ZSH, CURL
 `$ sudo apt install vim tmux git zsh curl` 
