@@ -6,7 +6,8 @@
 `$ sudo apt install vim tmux git zsh curl` 
 
 #### 安装 OH-MY-ZSH
-`$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+    `$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 
 #### 切换到ZSH
 运行如下命令，看看自己终端SHELL环境。
@@ -43,6 +44,7 @@
 `plugins=(zsh-autosuggestions)`
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzQzMzEwNSw0NzQ0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTExNjU5NTExNTcsNDc0NDUwMjM0XX0=
 -->
