@@ -17,12 +17,10 @@
 
 *notes: If use command 'echo $SHELL' without '/bin/zsh' then must be restart shell env.*
 
-#### 安装DOTFILES
-从如下GIT仓库中克隆到用户根目录下
-`$ cd & git clone https://github.com/xuzewei/dotfiles.git & cd dotfiles`
+#### Install DOTFILES
 
-执行SHELL
-`$ sh .make.sh`
+    $ cd & git clone https://github.com/xuzewei/dotfiles.git & cd dotfiles
+    $ sh .make.sh
 
 #### 安装VIM插件包undle
 1. 从如下GIT仓库中克隆到OH-MY-ZSH的插件目录下。
@@ -44,6 +42,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMwOTAxMjQsLTExMDQyMTMzMDMsND
-c0NDUwMjM0XX0=
+eyJoaXN0b3J5IjpbLTg1MzM2MzgyMSwtMTEwNDIxMzMwMyw0Nz
+Q0NTAyMzRdfQ==
 -->
