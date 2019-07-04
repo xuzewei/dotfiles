@@ -14,8 +14,8 @@
 
  - 运行如下命令，看看自己终端SHELL环境。
 
-    $ echo $SHELL
-    /bin/zsh
+	    $ echo $SHELL
+	    /bin/zsh
 
 如果还没有自动进入ZSH的环境, 运行命令。
 
@@ -50,5 +50,5 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NDk5NTUwOCw0NzQ0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTY1MDExMzIsNDc0NDUwMjM0XX0=
 -->
