@@ -2,11 +2,11 @@
 
 [Ubuntu, Linux Mint]
 
-#### 安装VIM, TMUX, GIT, ZSH, CURL
+#### Install VIM, TMUX, GIT, ZSH, CURL
 
     $ sudo apt install vim tmux git zsh curl
 
-#### 安装 OH-MY-ZSH
+#### Install OH-MY-ZSH
 
     $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
@@ -50,5 +50,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQyMTMzMDMsNDc0NDUwMjM0XX0=
+eyJoaXN0b3J5IjpbMTg5OTI4MjU0OSwtMTEwNDIxMzMwMyw0Nz
+Q0NTAyMzRdfQ==
 -->
