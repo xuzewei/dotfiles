@@ -27,7 +27,7 @@
     $ cd & git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     $ vim ~/.vimrc
     
-*notes: switch to command line(use esc key), input ':PluginInstall', system * 
+*notes: switch to command line(use esc key), input ':PluginInstall'* 
 
 7. 安装ZSH环境下命令行自动完成功能
 从如下GIT仓库中克隆到OH-MY-ZSH的插件目录下。
@@ -40,6 +40,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAyOTQxMTksLTExMDQyMTMzMDMsND
+eyJoaXN0b3J5IjpbLTE0OTg5NDUyMDgsLTExMDQyMTMzMDMsND
 c0NDUwMjM0XX0=
 -->
