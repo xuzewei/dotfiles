@@ -17,9 +17,9 @@
 	    $ echo $SHELL
 	    /bin/zsh
 
-如果还没有自动进入ZSH的环境, 运行命令。
+- 如果还没有自动进入ZSH的环境, 运行命令。   
 
-   $ sudo chsh -s /bin/zsh
+    $ sudo chsh -s /bin/zsh
 
 重新启动终端，如果仍然没有改变，则需要用户重新登录。
 
@@ -50,5 +50,5 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY1MDExMzIsNDc0NDUwMjM0XX0=
+eyJoaXN0b3J5IjpbLTExMDQyMTMzMDMsNDc0NDUwMjM0XX0=
 -->
