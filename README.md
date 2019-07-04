@@ -12,14 +12,8 @@
 
 #### Switch to ZSH shell
 
- - First use command 。
-
-	    $ echo $SHELL
-	    /bin/zsh
-
-- 如果还没有自动进入ZSH的环境, 运行命令。   
-
     $ sudo chsh -s /bin/zsh
+    $ echo $SHELL
 
 重新启动终端，如果仍然没有改变，则需要用户重新登录。
 
@@ -50,6 +44,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzMzNDE5NywtMTEwNDIxMzMwMyw0Nz
-Q0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTE1NjE2NjMzNzUsLTExMDQyMTMzMDMsND
+c0NDUwMjM0XX0=
 -->
