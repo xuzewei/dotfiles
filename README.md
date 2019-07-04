@@ -27,11 +27,8 @@
     $ cd & git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     $ vim ~/.vimrc
     
-*notes: switch to *: PluginInstall
+*notes: switch to command line(use esc key), input ':PluginInstall', system * 
 
-3. 如下图示参考
-![Alt text](./Screenshot from 2018-07-05 17-21-28.png)
-`:q` or `:q!`：退出VIM
 7. 安装ZSH环境下命令行自动完成功能
 从如下GIT仓库中克隆到OH-MY-ZSH的插件目录下。
 `$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
@@ -43,6 +40,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NTcwNjg0LC0xMTA0MjEzMzAzLDQ3ND
-Q1MDIzNF19
+eyJoaXN0b3J5IjpbLTIxMjAyOTQxMTksLTExMDQyMTMzMDMsND
+c0NDUwMjM0XX0=
 -->
