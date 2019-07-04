@@ -25,10 +25,10 @@
 #### Install VIM Plugin (option)
 
     $ cd & git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+    $ vim ~/.vimrc
+    
+*notes: switch to *: PluginInstall
 
-2. 打开VIM配置文件
-`$ vim ~/.vimrc`
-`: PluginInstall`
 3. 如下图示参考
 ![Alt text](./Screenshot from 2018-07-05 17-21-28.png)
 `:q` or `:q!`：退出VIM
@@ -43,6 +43,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTM5MzM3NywtMTEwNDIxMzMwMyw0Nz
-Q0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbNTA0NTcwNjg0LC0xMTA0MjEzMzAzLDQ3ND
+Q1MDIzNF19
 -->
