@@ -20,7 +20,7 @@
 #### Install DOTFILES
 
     $ cd & git clone https://github.com/xuzewei/dotfiles.git & cd dotfiles
-    $ sh .make
+    $ sh .make.sh
 
 #### Install VIM Plugin (option)
 
