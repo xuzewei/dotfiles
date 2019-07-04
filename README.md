@@ -20,7 +20,7 @@
 #### Install DOTFILES
 
     $ cd & git clone https://github.com/xuzewei/dotfiles.git & cd dotfiles
-    $ sh .make.sh
+    $ sh .make
 
 #### 安装VIM插件包undle
 1. 从如下GIT仓库中克隆到OH-MY-ZSH的插件目录下。
@@ -42,6 +42,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzM2MzgyMSwtMTEwNDIxMzMwMyw0Nz
-Q0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQwMjkwODAsLTExMDQyMTMzMDMsND
+c0NDUwMjM0XX0=
 -->
