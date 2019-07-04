@@ -10,9 +10,9 @@
 
     $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
-#### 切换到ZSH
+#### Switch to ZSH shell
 
- - 运行如下命令，看看自己终端SHELL环境。
+ - First use command 。
 
 	    $ echo $SHELL
 	    /bin/zsh
@@ -50,6 +50,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTY2NzI0NSwtMTEwNDIxMzMwMyw0Nz
+eyJoaXN0b3J5IjpbLTUwMzMzNDE5NywtMTEwNDIxMzMwMyw0Nz
 Q0NTAyMzRdfQ==
 -->
