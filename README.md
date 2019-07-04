@@ -15,7 +15,7 @@
     $ sudo chsh -s /bin/zsh
     $ echo $SHELL
 
-*notes: If use command 'echo $SHELL' without '/bin/zsh' then m*
+*notes: If use command 'echo $SHELL' without '/bin/zsh' then must be restart shell env.*
 
 #### 安装DOTFILES
 从如下GIT仓库中克隆到用户根目录下
@@ -44,6 +44,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzNzIzODksLTExMDQyMTMzMDMsND
+eyJoaXN0b3J5IjpbLTE5MDMwOTAxMjQsLTExMDQyMTMzMDMsND
 c0NDUwMjM0XX0=
 -->
