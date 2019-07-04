@@ -29,17 +29,11 @@
     
 *notes: switch to command line(use esc key), input ':PluginInstall'* 
 
-7. 安装ZSH环境下命令行自动完成功能
-从如下GIT仓库中克隆到OH-MY-ZSH的插件目录下。
-`$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
-配置ZSH启动环境
-`$ vim ~/.zshrc`
-添加插件名称到插件列表中
-`plugins=(zsh-autosuggestions)`
-如下图示参考：
-![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
+#### Install ZSH Plugin (option)
+$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg5NDUyMDgsLTExMDQyMTMzMDMsND
-c0NDUwMjM0XX0=
+eyJoaXN0b3J5IjpbMTg4NjQyMTQzNSwtMTEwNDIxMzMwMyw0Nz
+Q0NTAyMzRdfQ==
 -->
