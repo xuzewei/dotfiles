@@ -1,6 +1,6 @@
 # dotfiles
 
-[Ubuntu/Ubuntu for windows]
+[Ubuntu/Ubuntu with Win10 subsystem]
 
 #### Install VIM, TMUX, GIT, ZSH, CURL
 
@@ -50,6 +50,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTg3ODk1NSwtMTEwNDIxMzMwMyw0Nz
+eyJoaXN0b3J5IjpbMTcwMTY2NzI0NSwtMTEwNDIxMzMwMyw0Nz
 Q0NTAyMzRdfQ==
 -->
