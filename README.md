@@ -15,7 +15,7 @@
     $ sudo chsh -s /bin/zsh
     $ echo $SHELL
 
-重新启动终端，如果仍然没有改变，则需要用户重新登录。
+*notes: If *
 
 #### 安装DOTFILES
 从如下GIT仓库中克隆到用户根目录下
@@ -44,6 +44,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE2NjMzNzUsLTExMDQyMTMzMDMsND
+eyJoaXN0b3J5IjpbLTIxMzE0NjQyNTQsLTExMDQyMTMzMDMsND
 c0NDUwMjM0XX0=
 -->
