@@ -1,6 +1,6 @@
 # dotfiles
 
-[Ubuntu, Linux Mint]
+[Ubuntu]
 
 #### Install VIM, TMUX, GIT, ZSH, CURL
 
@@ -50,6 +50,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTI4MjU0OSwtMTEwNDIxMzMwMyw0Nz
-Q0NTAyMzRdfQ==
+eyJoaXN0b3J5IjpbLTExNTgzMzc0ODUsLTExMDQyMTMzMDMsND
+c0NDUwMjM0XX0=
 -->
