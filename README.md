@@ -15,7 +15,7 @@
     $ sudo chsh -s /bin/zsh
     $ echo $SHELL
 
-*notes: If *
+*notes: If use command 'echo $SHELL' without '/bin/zsh' then m*
 
 #### 安装DOTFILES
 从如下GIT仓库中克隆到用户根目录下
@@ -44,6 +44,6 @@
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE0NjQyNTQsLTExMDQyMTMzMDMsND
+eyJoaXN0b3J5IjpbLTE0NjIzNzIzODksLTExMDQyMTMzMDMsND
 c0NDUwMjM0XX0=
 -->
