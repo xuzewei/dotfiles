@@ -30,10 +30,11 @@
 *notes: switch to command line(use esc key), input ':PluginInstall'* 
 
 #### Install ZSH Plugin (option)
-$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+    $ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjQyMTQzNSwtMTEwNDIxMzMwMyw0Nz
+eyJoaXN0b3J5IjpbLTU0OTM2Mjk5NSwtMTEwNDIxMzMwMyw0Nz
 Q0NTAyMzRdfQ==
 -->
