@@ -1,16 +1,18 @@
-# dotfiles
+# dotfiles for zsh
 
 [Mac OS, zsh, bash]
 
 ### Install Homebrew
-```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 
 #### Install VIM, TMUX, GIT, ZSH, CURL
-$ sudo apt install vim tmux git zsh curl
-#### 安装 OH-MY-ZSH
-`$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+    $ sudo apt install vim tmux git zsh curl
+
+#### Install OH-MY-ZSH
+$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)
 #### 切换到ZSH
 1. 运行如下命令，看看自己终端SHELL环境。
 `$ echo $SHELL`
@@ -42,6 +44,6 @@ $ sudo apt install vim tmux git zsh curl
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTA0MDk2OSwtMTY5MzIxMDU5NywyMD
+eyJoaXN0b3J5IjpbLTU0NDM0Mjg2MCwtMTY5MzIxMDU5NywyMD
 UxMzc5NTU5XX0=
 -->
