@@ -1,6 +1,6 @@
 # dotfiles
 
-[Mac OS]
+[Mac OS, CSH, Bash]
 
 ### Install Homebrew
 
@@ -40,5 +40,5 @@
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkzNzMxMDddfQ==
+eyJoaXN0b3J5IjpbMjA1MTM3OTU1OV19
 -->
