@@ -2,6 +2,8 @@
 
 [Mac OS]
 
+
+
 #### 安装VIM, TMUX, GIT, ZSH, CURL
 `$ sudo apt install vim tmux git zsh curl` 
 #### 安装 OH-MY-ZSH
@@ -37,5 +39,5 @@
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzMwMDQwMTJdfQ==
+eyJoaXN0b3J5IjpbLTcyMzc5NDc2MF19
 -->
