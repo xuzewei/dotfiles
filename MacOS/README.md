@@ -2,6 +2,7 @@
 
 [Mac OS]
 
+### Install Homebrew
 
 
 #### 安装VIM, TMUX, GIT, ZSH, CURL
@@ -39,5 +40,5 @@
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzc5NDc2MF19
+eyJoaXN0b3J5IjpbLTE0NDkzNzMxMDddfQ==
 -->
