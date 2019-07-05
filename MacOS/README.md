@@ -3,7 +3,9 @@
 [Mac OS, CSH, Bash]
 
 ### Install Homebrew
-
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 #### 安装VIM, TMUX, GIT, ZSH, CURL
 `$ sudo apt install vim tmux git zsh curl` 
@@ -40,5 +42,5 @@
 如下图示参考：
 ![Alt text](./Screenshot from 2018-07-06 08-37-41.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTM3OTU1OV19
+eyJoaXN0b3J5IjpbLTE2OTMyMTA1OTcsMjA1MTM3OTU1OV19
 -->
