@@ -1,6 +1,10 @@
-# dotfiles
+# dotfiles for zsh
 
-[Ubuntu/Ubuntu with Win10 subsystem]
+[Mac OS/Ubuntu]
+
+### Install Homebrew (Mac OS)
+
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 #### Install VIM, TMUX, GIT, ZSH, CURL
 
