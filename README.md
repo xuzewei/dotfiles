@@ -4,9 +4,10 @@
 
 ### Install Homebrew (Mac OS)
 
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    $ sudo brew vim tmux git zsh curl
 
-#### Install VIM, TMUX, GIT, ZSH, CURL
+#### Install VIM, TMUX, GIT, ZSH, CURL (Ubuntu)
 
     $ sudo apt install vim tmux git zsh curl
 
