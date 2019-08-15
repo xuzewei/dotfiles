@@ -1,4 +1,3 @@
-" Wes Doyle vimrc
 " Last Update March 20 2018
 
 set nocompatible
