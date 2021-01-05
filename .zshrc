@@ -95,4 +95,3 @@ alias ...="cd ../.."
 alias l='ls -la'
 alias sz='source ~/.zshrc'
 
-cd ~
