@@ -12,8 +12,9 @@
     $ sudo apt install vim tmux git zsh curl
 
 #### Install OH-MY-ZSH
-
-    $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    
+    (option) $ sudo vi /etc/hosts (Append a line: 199.232.28.133 raw.githubusercontent.com)
+    $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 #### Switch to ZSH shell
 
