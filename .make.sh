@@ -1,10 +1,10 @@
 #!/bin/bash
-# .make.sh 
+# .make.sh
 # This script creates symlinks from ~/ to dotfiles dir
 
 dir=~/dotfiles
 olddir=~/dotfiles_old
-files=".bashrc .vimrc .zshrc .gitconfig .tmux.conf"
+files=".bashrc .vimrc .zshrc .gitconfig .tmux.conf .aliases .exports .functions"
 
 echo "Creating $olddir for backup of any existing dotfiles in ~"
 mkdir -p $olddir
