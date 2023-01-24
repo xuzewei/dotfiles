@@ -1,0 +1,52 @@
+#!/usr/bin/env bash
+
+# Make vim the default editor.
+export EDITOR='vim';
+
+# Enable persistent REPL history for `node`.
+export NODE_REPL_HISTORY=~/.node_history;
+# Allow 32³ entries; the default is 1000.
+export NODE_REPL_HISTORY_SIZE='32768';
+# Use sloppy mode by default, matching web browsers.
+export NODE_REPL_MODE='sloppy';
+
+# Make Python use UTF-8 encoding for output to stdin, stdout, and stderr.
+export PYTHONIOENCODING='UTF-8';
+
+# Increase Bash history size. Allow 32³ entries; the default is 500.
+export HISTSIZE='32768';
+export HISTFILESIZE="${HISTSIZE}";
+# Omit duplicates and commands that begin with a space from history.
+export HISTCONTROL='ignoreboth';
+
+# Prefer US English and use UTF-8.
+export LANG='en_US.UTF-8';
+export LC_ALL='en_US.UTF-8';
+
+# Highlight section titles in manual pages.
+export LESS_TERMCAP_md="${yellow}";
+
+# Don’t clear the screen after quitting a manual page.
+export MANPAGER='less -X';
+
+# Avoid issues with `gpg` as installed via Homebrew.
+# https://stackoverflow.com/a/42265848/96656
+export GPG_TTY=$(tty);
+
+# java_home path
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home
+
+# Make socks5 proxy
+export {HTTP,HTTPS}_PROXY=HTTP://127.0.0.1:1080
+
+# Avoid PATH for user bin
+export PATH=/Users/xavier/bin/mongodb-macos-x86_64-4.2.3/bin:/Users/xavier/.joplin-bin/bin:/Users/xavier/bin/mongodb-macos-x86_64-4.2.3/bin:/Users/xavier/.sdkman/candidates/springboot/current/bin:/Users/xavier/.sdkman/candidates/maven/current/bin:/Users/xavier/.sdkman/candidates/gradle/current/bin:/Users/xavier/miniconda3/envs/data/bin:/Users/xavier/miniconda3/condabin:$PATH
+
+# Solved the issue that can't compile a C program on a Mac
+export CPATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include
+
+export ANDROID_SDK_ROOT=/usr/local/Caskroom/android-sdk/4333796
+export ANDROID_HOME=/usr/local/Caskroom/android-sdk/4333796
+
+export PATH=/usr/local/Caskroom/android-sdk/4333796/tools/bin:/usr/local/Caskroom/android-sdk/4333796/emulator:/usr/local/Caskroom/android-sdk/4333796/tools:/usr/local/Caskroom/android-sdk/4333796:platform-tools:$PATH
+export PATH=/Applications/Sublime\ Text.app/Contents/SharedSupport/bin:$PATH
