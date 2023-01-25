@@ -45,12 +45,13 @@ set tabstop=2
 set shiftwidth=2
 " always uses spaces instead of tab characters
 set expandtab
+set nowrap
 
 colorscheme gruvbox
 
 " sync open file with NERDTree
 " " Check if NERDTree is open or active
-function! IsNERDTreeOpen()        
+function! IsNERDTreeOpen()
   return exists("t:NERDTreeBufName") && (bufwinnr(t:NERDTreeBufName) != -1)
 endfunction
 
@@ -71,9 +72,9 @@ let g:coc_global_extensions = [
   \ 'coc-snippets',
   \ 'coc-pairs',
   \ 'coc-tsserver',
-  \ 'coc-eslint', 
-  \ 'coc-prettier', 
-  \ 'coc-json', 
+  \ 'coc-eslint',
+  \ 'coc-prettier',
+  \ 'coc-json',
   \ ]
 " from readme
 " if hidden is not set, TextEdit might fail.
@@ -120,6 +121,9 @@ nmap <silent> gr <Plug>(coc-references)
 
 " Use K to show documentation in preview window
 nnoremap <silent> K :call <SID>show_documentation()<CR>
+
+"noremap <Leader>b :Buffers<CR>
+"noremap <Leader>h :History<CR>
 
 function! s:show_documentation()
   if (index(['vim','help'], &filetype) >= 0)
