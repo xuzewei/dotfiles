@@ -71,9 +71,9 @@ autocmd BufEnter * call SyncTree()
 let g:coc_global_extensions = [
   \ 'coc-snippets',
   \ 'coc-pairs',
-  \ 'coc-tsserver',
+  "\ 'coc-tsserver',
   \ 'coc-eslint',
-  \ 'coc-prettier',
+  "\ 'coc-prettier',
   \ 'coc-json',
   \ ]
 " from readme

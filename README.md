@@ -42,3 +42,7 @@
 
     git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
+#### Install nodejs (option)
+ 
+    sudo snap install node --classic --channel=14
+
