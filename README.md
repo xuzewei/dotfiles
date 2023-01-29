@@ -37,3 +37,8 @@
 #### Install ZSH Plugin (option)
 
     git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+#### Install tmux Plugin (option)
+
+    git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+
